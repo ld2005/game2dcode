@@ -201,7 +201,7 @@ GameObject:
   - component: {fileID: 248569920}
   - component: {fileID: 248569922}
   - component: {fileID: 248569921}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Engine_01_Basic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -298,7 +298,7 @@ GameObject:
   - component: {fileID: 545626026}
   - component: {fileID: 545626028}
   - component: {fileID: 545626029}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -533,7 +533,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1308023791}
   - component: {fileID: 1308023790}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: player_b_m
   m_TagString: Untagged
   m_Icon: {fileID: 0}
